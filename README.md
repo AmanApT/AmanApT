@@ -7,6 +7,23 @@
 
 - 📄 My Resume: https://drive.google.com/file/d/1yBAE2kJtaNutok-g1vXmw8ULfi-aEmYK/view?usp=drive_link
 
+<pre>
+
+type DeveloperInfo = {
+  name: string;
+  role: string;
+  expertise: string[];
+  hobbies: string[];
+};
+
+const aman: DeveloperInfo = {
+  name: 'Aman Pathak',
+  role: 'React Developer',
+  expertise: ['React.js', 'JavaScript', TypeScript, NodeJs],
+  hobbies: ['Coding', 'Reading', 'Cricket'],
+};
+</pre>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aman__ap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aman__ap" height="30" width="40" /></a>
