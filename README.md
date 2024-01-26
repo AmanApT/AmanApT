@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **amanasstudent@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Nb-_iNpXpiIZAdJ-8CaRU3POenMZd7QB/view?usp=sharing](https://drive.google.com/file/d/1Nb-_iNpXpiIZAdJ-8CaRU3POenMZd7QB/view?usp=sharing)
+- 📄 My Resume: https://drive.google.com/file/d/1yBAE2kJtaNutok-g1vXmw8ULfi-aEmYK/view?usp=drive_link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
