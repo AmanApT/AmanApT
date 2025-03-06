@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Ap</h1>
-<h3 align="center">MERN Stack Developer exploring endless possibilities in the development field.</h3>
+<h3 align="center">Software Engineer - Solving real world problems through coding</h3>
 
 - 👨‍💻 All of my projects are available at [https://aman-ap-portfolio.netlify.app/](https://aman-ap-portfolio.netlify.app/)
 
